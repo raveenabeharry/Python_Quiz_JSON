@@ -219,7 +219,7 @@
     "options": {
       "optiona": "/Users/raveenab/Documents/PythonIncorrectCode.png",
       "optionb": "/Users/raveenab/Documents/PythonCorrectCode.png",
-      "optionc": "/Users/raveenab/Documents/PythonCorrectCode2.png",
+      "optionc": "/Users/raveenab/Documents/PythonCorrectCode2.png"
     },
     "correct_answer": "/Users/raveenab/Documents/PythonIncorrectCode.png",
     "explanation:": "After the if statement, there is no indentation on the print statement. Therefore, the print statement is not executed."
