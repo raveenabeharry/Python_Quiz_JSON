@@ -214,15 +214,16 @@
 
   {
     "id":18,
-    "question_type": "Image",
-    "question": "Which of the following images contains code that is incorrect and will not run?",
+    "question_type": "Multiple Choice",
+    "question": "What is the symbol for the modulus operator?",
     "options": {
-      "optiona": "/Users/raveenab/Documents/PythonIncorrectCode.png",
-      "optionb": "/Users/raveenab/Documents/PythonCorrectCode.png",
-      "optionc": "/Users/raveenab/Documents/PythonCorrectCode2.png"
+      "optiona": "/",
+      "optionb": "%",
+      "optionc": "|",
+      "optiond": "!=="
     },
-    "correct_answer": "/Users/raveenab/Documents/PythonIncorrectCode.png",
-    "explanation:": "After the if statement, there is no indentation on the print statement. Therefore, the print statement is not executed."
+    "correct_answer": "b. % ",
+    "explanation:": "The modulus operator is represented by the % symbol."
   },
 
   {
